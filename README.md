@@ -54,5 +54,6 @@ Multi_I2CReadRegister(uint8_t bus, uint8_t addr, uint8_t u8Register, uint8_t *pD
 Multi_I2CWrite(uint8_t bus, uint8_t addr, uint8_t *pData, int iLen);<br>
 <br>
 
-
+If you find this code useful, please consider buying me a cup of coffee<br>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SR4F44J2UR8S4)
 
